@@ -1,2 +1,2 @@
-# -ki-Boyutlu-Kesme-Problemi-Optimizasyonu
+# iki Boyutlu Kesme Problemi Optimizasyonu
 İki Boyutlu Kesme Problemi Optimizasyonu
